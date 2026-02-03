@@ -9,7 +9,7 @@ The goal is to accurately predict household electricity consumption and solar PV
 
 Developed by:  
 Diya D Bhat  
-Dhanya Prabhu - https://github.com/pes2ug23cs169/ML_C_PES2UG23CS169_Dhanya/tree/main/Assignment
+Dhanya Prabhu
 
 ## **Project Description**
 
