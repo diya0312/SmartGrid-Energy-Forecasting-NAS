@@ -36,11 +36,9 @@ REQUIRES GPU ACCESS AS THE TRAINING PART TAKES VERY LONG TO COMPLETE DUE TO THE 
 
 1. In the repo, click the green code and download ZIP folder of this repo.
 2. Extract the ZIP folder.
-3. Navigate to ML_Project_23 inside the extracted folder and use it.
 
 **Option 2:** Clone the entire repo
-1. git clone https://github.com/PES2UG23CS183/ML_C_PES2UG23CS183_Diya.git
-2. cd ML_C_PES2UG23CS183_Diya/ML_Project_23
+1. git clone https://github.com/diya0312/SmartGrid-Energy-Forecasting-NAS.git
 
 **Step 2: Prepare the dataset**
 
